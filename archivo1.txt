@@ -1,0 +1,10 @@
+ El volumen de la unidad C es Windows
+ El n£mero de serie del volumen es: 1249-7818
+
+ Directorio de C:\informatica\Diplomado\proyecto_git
+
+15/11/2018  12:04    <DIR>          .
+15/11/2018  12:04    <DIR>          ..
+15/11/2018  12:04                 0 achivo1.txt
+               1 archivos              0 bytes
+               2 dirs  174.460.092.416 bytes libres
